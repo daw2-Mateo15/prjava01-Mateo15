@@ -15,7 +15,7 @@ public static void main(String[] args) throws IOException {
             bw.write("    </title>");bw.newLine();
             bw.write("  </head>");bw.newLine();
             bw.write("  <body>");bw.newLine();
-            bw.write("    Nova p&agrave;gina web Jordi Mateo");bw.newLine();
+            bw.write("    Nova p&agrave;gina web Jordi Mateo Daw2 UF4 Pr&agrave;ctica 2");bw.newLine();
             bw.write("  </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
             bw.close();
